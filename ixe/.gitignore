@@ -1,2 +1,6 @@
 # ignore built artifacts
 target
+
+# ignore intellij build artifacts
+*.iml
+.idea
